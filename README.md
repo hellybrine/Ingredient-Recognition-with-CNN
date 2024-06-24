@@ -23,3 +23,5 @@ This project, entitled “Fruits and Vegetable Recognition System with Recipe us
 - Ginger
 - Pineapple
 - Potato
+
+The dataset was sourced from link{https://www.kaggle.com/datasets/moltean/fruits}
