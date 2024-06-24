@@ -15,25 +15,25 @@ This project is an Artificial Intelligence-based image recognition system design
 - MySQL
 
 # The model can detect the following (for now):
-- cabbage          - kiwi        - lemon
-lettuce
-mango
-onion
-orange
-paprika
-pear
-peas
-pineapple
-pomegranate
-potato
-raddish
-soy beans
-spinach
-sweetcorn
-sweetpotato
-tomato
-turnip
-watermelon
+- cabbage
+- lettuce
+- mango
+- onion
+- orange
+- paprika
+- pear
+- peas
+- pineapple
+- pomegranate
+- potato
+- raddish
+- soy beans
+- spinach
+- sweetcorn
+- sweetpotato
+- tomato
+- turnip
+- watermelon
 - capsicum
 - carrot
 - cauliflower
@@ -45,4 +45,7 @@ watermelon
 - ginger
 - grapes
 - jalepeno
+- kiwi
+- lemon
+
 The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
