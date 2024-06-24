@@ -12,7 +12,6 @@ This project is an Artificial Intelligence-based image recognition system design
 - Keras
 - Anaconda
 - Jupyter Notebook
-- MySQL
 
 # The model can detect the following (for now):
 - cabbage
