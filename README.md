@@ -24,4 +24,4 @@ This project, entitled “Fruits and Vegetable Recognition System with Recipe us
 - Pineapple
 - Potato
 
-The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/moltean/fruits)
+The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
