@@ -15,11 +15,11 @@ This project, entitled “Fruits and Vegetable Recognition System with Recipe us
 - MySQL
 
 # The model can detect the following 8 classes of food:
--Banana
--Cabbage
--Onion
--Pomegranate
--Chilli
--Ginger
--Pineapple
--Potato
+- Banana
+- Cabbage
+- Onion
+- Pomegranate
+- Chilli
+- Ginger
+- Pineapple
+- Potato
