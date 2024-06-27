@@ -43,7 +43,7 @@ This project is an Artificial Intelligence-based image recognition system design
 - garlic
 - ginger
 - grapes
-- jalepeno
+- jalapeno
 - kiwi
 - lemon
 
